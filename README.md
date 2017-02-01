@@ -1,5 +1,5 @@
 # Dumb-Xml-Writer
-A simple tiny library to quickly obtain XML elements as String
+A simple tiny library to quickly obtain XML elements as String in JAVA
 
 
 ```java
